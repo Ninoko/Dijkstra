@@ -1,0 +1,3 @@
+/Users/Neyo/Documents/MIM/WDI/Z1/CMakeFiles/edit_cache.dir
+/Users/Neyo/Documents/MIM/WDI/Z1/CMakeFiles/rebuild_cache.dir
+/Users/Neyo/Documents/MIM/WDI/Z1/CMakeFiles/Sem.dir

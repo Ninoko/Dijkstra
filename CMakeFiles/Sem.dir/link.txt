@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Sem.dir/Sem.c.o CMakeFiles/Sem.dir/queue.c.o CMakeFiles/Sem.dir/graph.c.o  -o Sem  

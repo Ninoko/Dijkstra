@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Neyo/Documents/MIM/WDI/Z1/queue.c
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+queue.h
+/Users/Neyo/Documents/MIM/WDI/Z1/queue.h
+
+/Users/Neyo/Documents/MIM/WDI/Z1/queue.h
+stdlib.h
+-
+stdio.h
+-
+
